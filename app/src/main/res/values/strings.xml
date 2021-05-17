@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VB Sample</string>
+    <string name="api_key">YOUR API KEY HERE</string>
+    <string name="employee">Employee</string>
+    <string name="emp_id">Id :</string>
+    <string name="first_name">First Name :</string>
+    <string name="last_name">Last Name :</string>
+    <string name="email">Email :</string>
+    <string name="hire_date">Hire Date :</string>
+</resources>
